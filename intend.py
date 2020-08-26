@@ -18,6 +18,6 @@ class Gauge():
 g = Gauge()
 
 while True:
-	print("{} {}".format(g.rate, "I pray for universal basic income."))
+	print("{} {}".format(g.rate, "By grace LORD I pray for the plans of social engineering to fail. Thank you."))
 	g.mark()
 
